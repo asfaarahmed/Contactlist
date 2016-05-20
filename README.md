@@ -7,7 +7,7 @@ npm install express
 
 npm install mongojs
 
-npm install bady-parser
+npm install body-parser
 
 
 open mongod
